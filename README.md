@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lebenchus" alt="lebenchus" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/lebenchus_bol" target="blank"><img src="https://img.shields.io/twitter/follow/lebenchus_bol?logo=twitter&style=for-the-badge" alt="lebenchus_bol" /></a> </p>
+<p align="left"> <a href="https://twitter.com/teamlebenchus" target="blank"><img src="https://img.shields.io/twitter/follow/teamlebenchus?logo=twitter&style=for-the-badge" alt="teamlebenchus" /></a> </p>
 
 - 🔭 I’m currently working on **discord bot 431e5**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/lebenchus_bol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lebenchus_bol" height="30" width="40" /></a>
+<a href="https://twitter.com/teamlebenchus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="teamlebenchus" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@lebenchus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@lebenchus" height="30" width="40" /></a>
 </p>
 
